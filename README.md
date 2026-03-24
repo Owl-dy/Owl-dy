@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Owl-dy, currently working as a Data Scientist at Twitch for the Creator Team
-- 👀 I’m interested in any data science topics
-- 🌱 I’m currently doing a Master in Data Science degree at UT Austin and studying for Tensorflow certification
-- 💞️ I’m looking to collaborate on any Data Science projects 
+- 👋 Hi, I’m @Owl-dy, currently working as a Data Scientist at Discord for the Revenue Team
+- 👀 I’m interested in any data science / AI topics
+- 🌱 Master in Data Science degree at UT Austin class of 2024
 - 📫 How to reach me on linkedin on [linkedin.com](https://www.linkedin.com/in/tom-fu-owldy/)
 
 <!---
